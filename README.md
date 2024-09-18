@@ -1,5 +1,5 @@
-Mizael Vieira
-Leonardo Zago
-Kauan Alves
-Renan Otero
+Mizael Vieira,
+Leonardo Zago,
+Kauan Alves,
+Renan Otero,
 # Aula12
